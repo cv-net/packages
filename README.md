@@ -3,7 +3,7 @@
 All of our open-source software packages. Also available as [a CSV file](packages.csv).
 
 | slug | distributor | ci | maintained |
-|:--|:--|:--|:--|:--|
+|:--|:--|:--|:--|
 |  [bing-geocodify](https://www.github.com/datadesk/bing-geocodify) | [bing-geocodify]() |  |  | 👍 |
 |  [copyboy](https://www.github.com/datadesk/copyboy) | [copyboy]() |  |  | 👍 |
 |  [cpi](https://www.github.com/datadesk/cpi) | [cpi]() | [![PyPI version](https://img.shields.io/pypi/v/cpi.svg)](https://pypi.org/project/cpi) | [![Build Status](https://travis-ci.org/datadesk/cpi.png?branch=master)](https://travis-ci.org/datadesk/cpi) | 👍 |
