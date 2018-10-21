@@ -23,7 +23,7 @@ latimes-pluggablemaps-usstates,datadesk/latimes-pluggablemaps-usstates,latimes-p
 latimes-qiklog,datadesk/latimes-qiklog,latimes-qiklog,,FALSE
 latimes-statestyle,datadesk/latimes-statestyle,latimes-statestyle,datadesk/latimes-statestyle,TRUE
 latimes-table-stacker,datadesk/latimes-table-stacker,,datadesk/latimes-table-stacker,FALSE
-p2p-python,datadesk/p2p-python,p2p-python,datadesk/p2p-latimes,TRUE
+p2p-python,datadesk/p2p-python,p2p-python,,TRUE
 python-censusbatchgeocoder,datadesk/python-censusbatchgeocoder,censusbatchgeocoder,datadesk/python-censusbatchgeocoder,TRUE
 python-documentcloud,datadesk/python-documentcloud,python-documentcloud,datadesk/python-documentcloud,TRUE
 python-elections,datadesk/python-elections,python-elections,datadesk/python-elections,FALSE
