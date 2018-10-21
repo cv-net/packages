@@ -14,8 +14,8 @@ jquery-scroll-slideshow,datadesk/jquery-scroll-slideshow,,,FALSE
 jquery-shareify,datadesk/jquery-shareify,,,FALSE
 lat-soundsystem,datadesk/lat-soundsystem,,,TRUE
 latimes-calculate,datadesk/latimes-calculate,latimes-calculate,datadesk/latimes-calculate,FALSE
-latimes-document-stacker ,datadesk/latimes-document-stacker ,,,FALSE
-latimes-mappingla-api ,datadesk/latimes-mappingla-api,latimes-mappingla-api ,,FALSE
+latimes-document-stacker,datadesk/latimes-document-stacker,,,FALSE
+latimes-mappingla-api,datadesk/latimes-mappingla-api,latimes-mappingla-api,,FALSE
 latimes-mappingla-geopy,datadesk/latimes-mappingla-geopy,,,FALSE
 latimes-pluggablemaps-lametrorail,datadesk/latimes-pluggablemaps-lametrorail,latimes-pluggablemaps-lametrorail,,FALSE
 latimes-pluggablemaps-uscounties,datadesk/latimes-pluggablemaps-uscounties,latimes-pluggablemaps-uscounties,,FALSE
