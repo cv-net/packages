@@ -20,7 +20,7 @@ All of our open-source software packages. Also available as [a CSV file](package
 |  [lat-soundsystem](https://www.github.com/datadesk/lat-soundsystem) |  |  | 👍 |
 |  [latimes-calculate](https://www.github.com/datadesk/latimes-calculate) | [![PyPI version](https://img.shields.io/pypi/v/latimes-calculate.svg)](https://pypi.org/project/latimes-calculate) | [![Build Status](https://travis-ci.org/datadesk/latimes-calculate.png?branch=master)](https://travis-ci.org/datadesk/latimes-calculate) | 👎 |
 |  [latimes-document-stacker](https://www.github.com/datadesk/latimes-document-stacker) |  |  | 👎 |
-|  [latimes-mappingla-api](https://www.github.com/datadesk/latimes-mappingla-api) | [![PyPI version](https://img.shields.io/pypi/v/latimes-mappingla-api.svg)](https://pypi.org/project/latimes-mappingla-api) |  | 👎 |
+|  [latimes-mappingla-api](https://www.github.com/datadesk/latimes-mappingla-api) |  |  | 👎 |
 |  [latimes-mappingla-geopy](https://www.github.com/datadesk/latimes-mappingla-geopy) |  |  | 👎 |
 |  [latimes-pluggablemaps-lametrorail](https://www.github.com/datadesk/latimes-pluggablemaps-lametrorail) | [![PyPI version](https://img.shields.io/pypi/v/latimes-pluggablemaps-lametrorail.svg)](https://pypi.org/project/latimes-pluggablemaps-lametrorail) |  | 👎 |
 |  [latimes-pluggablemaps-uscounties](https://www.github.com/datadesk/latimes-pluggablemaps-uscounties) | [![PyPI version](https://img.shields.io/pypi/v/latimes-pluggablemaps-uscounties.svg)](https://pypi.org/project/latimes-pluggablemaps-uscounties) |  | 👎 |
