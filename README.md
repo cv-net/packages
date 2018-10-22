@@ -17,6 +17,7 @@ All of our open-source software packages. Also available as [a CSV file](package
 |  [jquery-geocodify](https://www.github.com/datadesk/jquery-geocodify) |  |  | ❌ |
 |  [jquery-scroll-slideshow](https://www.github.com/datadesk/jquery-scroll-slideshow) |  |  | ❌ |
 |  [jquery-shareify](https://www.github.com/datadesk/jquery-shareify) |  |  | ❌ |
+|  [la-election-night](https://www.github.com/datadesk/la-election-night) | [![PyPI version](https://img.shields.io/pypi/v/la-election-night.svg)](https://pypi.org/project/la-election-night) | [![Build Status](https://travis-ci.org/datadesk/la-election-night.png?branch=master)](https://travis-ci.org/datadesk/la-election-night) | ✔️ |
 |  [lat-soundsystem](https://www.github.com/datadesk/lat-soundsystem) |  |  | ✔️ |
 |  [latimes-calculate](https://www.github.com/datadesk/latimes-calculate) | [![PyPI version](https://img.shields.io/pypi/v/latimes-calculate.svg)](https://pypi.org/project/latimes-calculate) | [![Build Status](https://travis-ci.org/datadesk/latimes-calculate.png?branch=master)](https://travis-ci.org/datadesk/latimes-calculate) | ❌ |
 |  [latimes-document-stacker](https://www.github.com/datadesk/latimes-document-stacker) |  |  | ❌ |

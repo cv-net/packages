@@ -12,6 +12,7 @@ django-yamlfield,datadesk/django-yamlfield,django-yamlfield,datadesk/django-yaml
 jquery-geocodify,datadesk/jquery-geocodify,,,FALSE
 jquery-scroll-slideshow,datadesk/jquery-scroll-slideshow,,,FALSE
 jquery-shareify,datadesk/jquery-shareify,,,FALSE
+la-election-night,datadesk/la-election-night,la-election-night,datadesk/la-election-night,TRUE
 lat-soundsystem,datadesk/lat-soundsystem,,,TRUE
 latimes-calculate,datadesk/latimes-calculate,latimes-calculate,datadesk/latimes-calculate,FALSE
 latimes-document-stacker,datadesk/latimes-document-stacker,,,FALSE
