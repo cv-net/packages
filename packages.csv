@@ -25,10 +25,10 @@ latimes-pluggablemaps-lametrorail,datadesk/latimes-pluggablemaps-lametrorail,lat
 latimes-pluggablemaps-uscounties,datadesk/latimes-pluggablemaps-uscounties,latimes-pluggablemaps-uscounties,,FALSE
 latimes-pluggablemaps-usstates,datadesk/latimes-pluggablemaps-usstates,latimes-pluggablemaps-usstates,,FALSE
 latimes-qiklog,datadesk/latimes-qiklog,latimes-qiklog,,FALSE
-latimes-statestyle,datadesk/latimes-statestyle,latimes-statestyle,datadesk/latimes-statestyle,TRUE
+latimes-statestyle,datadesk/latimes-statestyle,latimes-statestyle,datadesk/latimes-statestyle,FALSE
 latimes-table-stacker,datadesk/latimes-table-stacker,,datadesk/latimes-table-stacker,FALSE
 mlbcolors,datadesk/mlbcolors,mlbcolors,datadesk/mlbcolors,TRUE
-p2p-python,datadesk/p2p-python,p2p-python,,TRUE
+p2p-python,datadesk/p2p-python,p2p-python,,FALSE
 python-censusbatchgeocoder,datadesk/python-censusbatchgeocoder,censusbatchgeocoder,datadesk/python-censusbatchgeocoder,TRUE
 python-documentcloud,datadesk/python-documentcloud,python-documentcloud,datadesk/python-documentcloud,TRUE
 python-elections,datadesk/python-elections,python-elections,datadesk/python-elections,FALSE
