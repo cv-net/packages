@@ -1,5 +1,8 @@
 slug,repo,pypi,travisci,is_maintained
+altair-latimes,datadesk/altair-latimes,altair-latimes,datadesk/altair-latimes,TRUE
 bing-geocodify,datadesk/bing-geocodify,,,TRUE
+census-data-downloader,datadesk/census-data-downloader,census-data-downloader,datadesk/census-data-downloader,TRUE
+census-map-consolidator,datadesk/census-map-consolidator,census-map-consolidator,datadesk/census-map-consolidator,TRUE
 copyboy,datadesk/copyboy,,,TRUE
 cpi,datadesk/cpi,cpi,datadesk/cpi,TRUE
 django-bakery,datadesk/django-bakery,django-bakery,datadesk/django-bakery,TRUE
@@ -24,11 +27,13 @@ latimes-pluggablemaps-usstates,datadesk/latimes-pluggablemaps-usstates,latimes-p
 latimes-qiklog,datadesk/latimes-qiklog,latimes-qiklog,,FALSE
 latimes-statestyle,datadesk/latimes-statestyle,latimes-statestyle,datadesk/latimes-statestyle,TRUE
 latimes-table-stacker,datadesk/latimes-table-stacker,,datadesk/latimes-table-stacker,FALSE
+mlbcolors,datadesk/mlbcolors,mlbcolors,datadesk/mlbcolors,TRUE
 p2p-python,datadesk/p2p-python,p2p-python,,TRUE
 python-censusbatchgeocoder,datadesk/python-censusbatchgeocoder,censusbatchgeocoder,datadesk/python-censusbatchgeocoder,TRUE
 python-documentcloud,datadesk/python-documentcloud,python-documentcloud,datadesk/python-documentcloud,TRUE
 python-elections,datadesk/python-elections,python-elections,datadesk/python-elections,FALSE
 python-googlegeocoder,datadesk/python-googlegeocoder,python-googlegeocoder,datadesk/python-googlegeocoder,TRUE
 python-lametro-api,datadesk/python-lametro-api,python-lametro-api,datadesk/python-lametro-api,FALSE
+python-muckrock,datadesk/python-muckrock,python-muckrock,datadesk/python-muckrock,TRUE
 slackdown,datadesk/slackdown,slackdown,datadesk/slackdown,FALSE
 uptime-grove,datadesk/uptime-grove,,,FALSE
