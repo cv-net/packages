@@ -1,7 +1,10 @@
 slug,repo,pypi,travisci,is_maintained
 altair-latimes,datadesk/altair-latimes,altair-latimes,datadesk/altair-latimes,TRUE
 bing-geocodify,datadesk/bing-geocodify,,,TRUE
+calfire-wildfires,datadesk/calfire-wildfires,calfire-wildfires,datadesk/calfire-wildfires,TRUE
+census-data-aggregator,datadesk/census-data-aggregator,census-data-aggregator,datadesk/census-data-aggregator ,TRUE
 census-data-downloader,datadesk/census-data-downloader,census-data-downloader,datadesk/census-data-downloader,TRUE
+census-error-analyzer,datadesk/census-error-analyzer,census-error-analyzer,datadesk/census-error-analyzer,TRUE
 census-map-consolidator,datadesk/census-map-consolidator,census-map-consolidator,datadesk/census-map-consolidator,TRUE
 copyboy,datadesk/copyboy,,,TRUE
 cpi,datadesk/cpi,cpi,datadesk/cpi,TRUE
@@ -12,6 +15,7 @@ django-greeking,datadesk/django-greeking,greeking,datadesk/django-greeking,TRUE
 django-project-template,datadesk/django-project-template,django-project-template,datadesk/django-project-template,FALSE
 django-softhyphen,datadesk/django-softhyphen,django-softhyphen,datadesk/django-softhyphen,FALSE
 django-yamlfield,datadesk/django-yamlfield,django-yamlfield,datadesk/django-yamlfield,TRUE
+geomac-wildfires,datadesk/geomac-wildfires,geomac-wildfires,datadesk/geomac-wildfires,TRUE
 jquery-geocodify,datadesk/jquery-geocodify,,,FALSE
 jquery-scroll-slideshow,datadesk/jquery-scroll-slideshow,,,FALSE
 jquery-shareify,datadesk/jquery-shareify,,,FALSE
@@ -28,6 +32,8 @@ latimes-qiklog,datadesk/latimes-qiklog,latimes-qiklog,,FALSE
 latimes-statestyle,datadesk/latimes-statestyle,latimes-statestyle,datadesk/latimes-statestyle,FALSE
 latimes-table-stacker,datadesk/latimes-table-stacker,,datadesk/latimes-table-stacker,FALSE
 mlbcolors,datadesk/mlbcolors,mlbcolors,datadesk/mlbcolors,TRUE
+nasa-wildfires,datadesk/nasa-wildfires,nasa-wildfires,datadesk/nasa-wildfires,TRUE
+noaa-wildfires,datadesk/noaa-wildfires,noaa-wildfires,datadesk/noaa-wildfires,TRUE
 p2p-python,datadesk/p2p-python,p2p-python,,FALSE
 python-censusbatchgeocoder,datadesk/python-censusbatchgeocoder,censusbatchgeocoder,datadesk/python-censusbatchgeocoder,TRUE
 python-documentcloud,datadesk/python-documentcloud,python-documentcloud,datadesk/python-documentcloud,TRUE
