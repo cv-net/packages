@@ -2,7 +2,7 @@ slug,repo,pypi,travisci,is_maintained
 altair-latimes,datadesk/altair-latimes,altair-latimes,datadesk/altair-latimes,TRUE
 bing-geocodify,datadesk/bing-geocodify,,,TRUE
 calfire-wildfires,datadesk/calfire-wildfires,calfire-wildfires,datadesk/calfire-wildfires,TRUE
-census-data-aggregator,datadesk/census-data-aggregator,census-data-aggregator,datadesk/census-data-aggregator ,TRUE
+census-data-aggregator,datadesk/census-data-aggregator,census-data-aggregator,datadesk/census-data-aggregator,TRUE
 census-data-downloader,datadesk/census-data-downloader,census-data-downloader,datadesk/census-data-downloader,TRUE
 census-error-analyzer,datadesk/census-error-analyzer,census-error-analyzer,datadesk/census-error-analyzer,TRUE
 census-map-consolidator,datadesk/census-map-consolidator,census-map-consolidator,datadesk/census-map-consolidator,TRUE
